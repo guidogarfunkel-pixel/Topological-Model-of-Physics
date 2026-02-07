@@ -6,4 +6,4 @@ Topological Model: a physics framework proposing a structured vacuum and a unify
 https://doi.org/10.5281/zenodo.18520304
 
 ## Download
-- [Topological Model of Physics (English Version)](./Topological%20Model%20of%20Physics%20(English%20Version).pdf)
+- [Read the full PDF](./topological-model-physics-marcelo-garfunkel.pdf)
