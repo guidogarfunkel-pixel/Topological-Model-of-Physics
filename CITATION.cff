@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as follows."
+authors:
+  - family-names: "Garfunkel"
+    given-names: "Marcelo O."
+    orcid: "https://orcid.org/0009-0005-2073-8154"
+  - family-names: "Garfunkel"
+    given-names: "Guido"
+title: "Topological Model of Physics"
+version: "v2"
+doi: "10.5281/zenodo.18520304"
+date-released: "2025-04-26"
+repository-code: "https://github.com/guidogarfunkel-pixel/Topological-Model-of-Physics"
+keywords:
+  - "theoretical physics"
+  - "superfluid vacuum theory"
+  - "topology"
+  - "mobius strip"
