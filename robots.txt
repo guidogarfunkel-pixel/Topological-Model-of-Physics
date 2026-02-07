@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guidogarfunkel-pixel.github.io/Topological-Model-of-Physics/sitemap.xml
